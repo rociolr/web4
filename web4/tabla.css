@@ -1,0 +1,38 @@
+#d1{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items:center;
+    width: 700px;
+    height:350px;
+    border:2px solid black;
+    overflow-y:hidden;
+}
+
+.Contenedor_tabla{
+    position:relative;
+    top:2.5%;
+    left:1%;
+    width: 98.5%;
+    height: 96%;
+    border: 1px solid darkgray;
+    box-shadow: 4px 5px 16px grey;
+
+}
+.c_cabtab{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    position: relaitve;
+    width:100%;
+    background-color: rgb(194, 36, 36);
+
+}
+.titab{
+ display:block;
+ position:relative;
+ width:98.5%;
+ background: rebeccapurple;
+ margin:0px;
+    
+}
